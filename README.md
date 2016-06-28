@@ -16,8 +16,8 @@ Example Usage: `python generativeMomentMatchingNetworks.py -d mnist -n code_spac
 
 ##### Data Space
 
-![](images/mnist_data_space.png =400x300) ![](images/lfw_data_space.png =400x300)
+![](images/mnist_data_space.png) ![](images/lfw_data_space.png)
 
 ##### Code Space
 
-![](images/mnist_code_space.png =400x300) ![](images/lfw_code_space.png =400x300)
+![](images/mnist_code_space.png) ![](images/lfw_code_space.png)
